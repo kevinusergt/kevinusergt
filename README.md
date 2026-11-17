@@ -1,80 +1,65 @@
 <h1 align="center">Kevin Josué Villalobos Ruiz</h1>
 
-<h3 align="center">
-  Backend Developer Junior | Node.js | TypeScript | NestJS
-</h3>
+<h3 align="center">Backend Developer Junior | Node.js · TypeScript · NestJS</h3>
 
 <p align="center">
-  Desarrollador Backend Junior en formación en Riwi,
-  interesado en construir APIs REST y soluciones backend.
+Desarrollador backend en formación en Riwi, enfocado en construir
+APIs REST, trabajar con bases de datos relacionales y desarrollar
+funcionalidades de autenticación y autorización.
+</p>
+
+<p align="center">
+Barranquilla, Colombia ·
+<a href="https://www.linkedin.com/in/kevin-villalobos-ruiz/">LinkedIn</a>
 </p>
 
 ---
 
 ## Sobre mí
 
-Soy desarrollador Backend Junior en formación en Riwi,
-con aproximadamente 6 meses de experiencia práctica
-en desarrollo de software.
+Tengo alrededor de 6 meses de experiencia práctica en proyectos
+de formación y desarrollo colaborativo.
 
-Me enfoco principalmente en el desarrollo backend,
-la construcción de APIs REST, la gestión de bases de datos
-y la implementación de funcionalidades de autenticación
-y autorización.
+Trabajo principalmente con JavaScript, TypeScript y el ecosistema
+Node.js.
 
-Me interesa seguir fortaleciendo mis conocimientos
-en arquitectura backend, buenas prácticas de desarrollo
-y construcción de aplicaciones escalables.
+Me interesa seguir fortaleciendo mis habilidades en diseño de APIs,
+persistencia de datos, seguridad backend, arquitectura de software
+y buenas prácticas de desarrollo.
 
 ## Tecnologías
 
-**Lenguajes**
-- JavaScript
-- TypeScript
-
-**Backend**
-- Node.js
-- Express.js
-- NestJS
-- APIs REST
-
-**Bases de datos**
-- PostgreSQL
-- SQL
-- TypeORM
-
-**Herramientas**
-- Git
-- GitHub
-- Docker
-- Postman
-- Swagger
+- **Lenguajes:** JavaScript, TypeScript, SQL.
+- **Backend:** Node.js, NestJS, Express.js, APIs REST.
+- **Bases de datos:** PostgreSQL, TypeORM, Sequelize.
+- **Herramientas:** Git, GitHub, Docker, Postman, Swagger.
+- **Conceptos:** DTOs, validación, autenticación y autorización.
 
 ## Proyectos destacados
 
 ### FleetCore
-API REST para la gestión de vehículos, mecánicos,
-talleres y mantenimientos.
 
-Tecnologías: NestJS, TypeScript, TypeORM,
-PostgreSQL y Docker.
+API REST para gestionar vehículos, mecánicos, talleres y mantenimientos.
+
+Tecnologías: NestJS, TypeScript, TypeORM, PostgreSQL y Docker.
 
 [Ver repositorio](https://github.com/kevinusergt/FleetCore)
 
 ### Solicitudes API
-API REST para registrar y gestionar solicitudes
-comerciales, con control de acceso y validación.
+
+API REST para registrar y gestionar solicitudes comerciales.
+Implementa validación, control de acceso y reglas de negocio.
 
 Tecnologías: NestJS, TypeScript, TypeORM y PostgreSQL.
 
 [Ver repositorio](https://github.com/kevinusergt/Solicitudes-API)
 
-### Sistema de gestión de cine
-Proyecto colaborativo de desarrollo backend
-para la gestión de películas y funciones.
+### Riwi Cine API
 
-Tecnologías: Node.js, TypeScript, Express
-y PostgreSQL.
+Proyecto colaborativo de una API REST para una plataforma
+de películas, con autenticación, roles y gestión de recursos.
+
+Tecnologías: Node.js, TypeScript, Express, PostgreSQL y Sequelize.
 
 [Ver repositorio](https://github.com/kevinusergt/proyecto-riwi-cine)
 
@@ -83,5 +68,5 @@ y PostgreSQL.
 ## Contacto
 
 - LinkedIn: https://www.linkedin.com/in/kevin-villalobos-ruiz/
+- Email: kvillalobos917@gmail.com
 - GitHub: https://github.com/kevinusergt
-- Ubicación: Barranquilla, Colombia
