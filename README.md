@@ -28,12 +28,11 @@ persistencia de datos, seguridad backend, arquitectura de software
 y buenas prácticas de desarrollo.
 
 ## Tecnologías
+<h2 align="center">Tecnologías y herramientas</h2>
 
-- **Lenguajes:** JavaScript, TypeScript, SQL.
-- **Backend:** Node.js, NestJS, Express.js, APIs REST.
-- **Bases de datos:** PostgreSQL, TypeORM, Sequelize.
-- **Herramientas:** Git, GitHub, Docker, Postman, Swagger.
-- **Conceptos:** DTOs, validación, autenticación y autorización.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,postgres,sequelize,docker,git,github,postman,vscode&perline=6" />
+</p>
 
 ## Proyectos destacados
 
